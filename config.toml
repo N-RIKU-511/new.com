@@ -1,4 +1,4 @@
-baseurl = "https://github.com/n-riku-511/new.com.git"
+baseurl = "https://new.com/"
 title = "new.com"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
